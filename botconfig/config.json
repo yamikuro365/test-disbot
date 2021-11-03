@@ -1,0 +1,53 @@
+{
+  "token": "ODg4NjY3NTI1ODMzOTY5Njk2.YUWCIA.ZbbdDBwEe6xe-dJgFm2P1i2po_0",
+  "prefix": "+",
+
+  "clientsettings": {
+    "nodes": [
+      {
+         "host": "lavalink.darrennathanael.com",
+         "port": 80,
+         "password": "clover"
+       }
+     ]
+  },
+
+  "spotify": {
+    "clientSecret": "5df9000476264536b63362192ebf6b17",
+    "clientID": "4b7b0739744f404d8964330402334631"
+  },
+
+  "settings": {
+       "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": "🔶",
+    "leaveOnEmpty_Channel" : {
+      "enabled": true,
+      "time_delay": 60000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": true,
+      "time_delay": 60000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+
+  "lyricssettings": {
+    "lyrics_finder": true,         "COMMENT": "my suggestion is to use ksoft_api on true and paste in the api key u can sign up, until u get the key use lyrics_finder which is way weaker but better the nothing",
+    "ksoft_api": {
+      "use_this_instead": false,
+      "api_key": ""
+    }
+  },
+
+
+  "ownerIDS": ["338502866148917249"],
+
+
+  "status": {
+    "text": "$help | Rosalia-ProjectV2",
+    "type": "STREAMING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+    "url": "https://www.twitch.tv/yamikurostd"
+  }
+
+}
